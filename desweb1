@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br“>
+    <head>
+        <title>Documento HTML mínimo</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <!-- isso é um comentário em HTML-->
+    </body>
+</html>
+<ul>
+    <li>Carro</li>
+    <li>Cores</li>
+    <li>Países</li>
+    <li>Frutas</li>
+</ul>
+<ol>
+<h2> Listas ordenadas <h2/>
+    <li>Ayrton Senna</li>
+    <li>Juan Manuel Fangio</li>
+    <li>Michael Schumacher</li>
+    <li>Alain Prost</li>
+    <li>Lewis Hamilton</li>
+</ol>
+<ul>
+    <li>Cores 
+          <ul>
+                 <li>Vermelho</li>
+                 <li>Azul</li>
+          </ul>
+   </li>
+   <li>Carros
+          <ul>
+                 <li>Ferrari</li>
+                 <li>Tesla</li>
+          </ul>
+   </li>
+</ul>
+
+<h2>Lista de definições</h2>
+<dl>
+    <dt>Café Latte</dt>
+    <dd>Café com leite</dd>
+    <dt>Cappuccino Italiano</dt>
+    <dd>1/3 café, leite  e de espuma de leite</dd>
+</dl>
